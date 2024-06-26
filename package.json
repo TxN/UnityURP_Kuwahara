@@ -1,0 +1,11 @@
+{
+    "name": "com.mehozavr.kuwaharaURP",
+    "description": "Kuwahara effect for Unity's Universal Render Pipeline. Based on shaders from Acerola ( https://github.com/GarrettGunnell/Post-Processing/ )",
+    "version": "0.0.1",
+    "unity": "2021.3",
+	"licensesUrl": "https://github.com/TxN/UnityURP_Kuwahara/blob/main/LICENSE",
+    "displayName": "kuwaharaURP",
+    "dependencies": {
+        "com.unity.render-pipelines.universal": "12.x.x"
+    }
+}
